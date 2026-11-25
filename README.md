@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/1470-shuffle-the-array) |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/1603-design-parking-system) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
