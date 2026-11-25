@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -48,5 +49,6 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
