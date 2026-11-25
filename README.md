@@ -53,4 +53,16 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0344-reverse-string) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
