@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0075-sort-colors) |
+| [1480-running-sum-of-1d-array](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0001-two-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
