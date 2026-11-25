@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0075-sort-colors) |
 ## Two Pointers
@@ -26,4 +27,8 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0033-search-in-rotated-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/harleenkaursoni2303-bit/JAVA_CODE/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
